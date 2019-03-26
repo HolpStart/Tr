@@ -6,6 +6,6 @@ import java.util.Date;
 
 public class InitClass {
     public static void main(String[] args) {
-        System.out.println("============"+new Date().toLocaleString());
+        System.out.println("============"+new Date().toLocaleString() );
     }
 }
